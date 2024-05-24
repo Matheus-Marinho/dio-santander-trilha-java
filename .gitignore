@@ -1,0 +1,6 @@
+
+/iphone-app/.idea
+/iphone-app/.vscode
+/iphone-app/out
+*.java~
+*.iml
