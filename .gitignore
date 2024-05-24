@@ -1,0 +1,6 @@
+
+*.xml
+/iphone-app/.vscode
+*.iml
+/iphone-app/out
+*.java~
